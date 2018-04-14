@@ -1,0 +1,21 @@
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\MatabYar ToolsAddIn.dll
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\MatabYar ToolsAddIn.pdb
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\MatabYar ToolsAddIn.dll.manifest
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\MatabYar ToolsAddIn.vsto
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\Microsoft.Office.Tools.Word.dll
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\Microsoft.Office.Tools.Common.xml
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\Microsoft.Office.Tools.Word.xml
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\obj\Debug\MatabYar ToolsAddIn.csprojResolveAssemblyReference.cache
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\obj\Debug\MatabYar_ToolsAddIn.Properties.Resources.resources
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\obj\Debug\MatabYar ToolsAddIn.csproj.GenerateResource.Cache
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\obj\Debug\MatabYar ToolsAddIn.dll
+c:\users\hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\obj\Debug\MatabYar ToolsAddIn.pdb
+C:\Users\Hojjat\documents\visual studio 2015\Projects\MatabYar ToolsAddIn\MatabYar ToolsAddIn\obj\Debug\MatabYar_ToolsAddIn.MatabYarToolsUserControl.resources
